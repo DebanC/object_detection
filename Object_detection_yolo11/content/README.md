@@ -29,11 +29,10 @@ To train the model using YOLOv8 (YOLO11), you need to set up a virtual environme
 python -m venv venv
 
 ### Key Sections in the `README.md`:
-1. **Dataset Overview**: Describes the dataset and its contents.
-2. **Setup Instructions**: Guides users to create a virtual environment, install dependencies, and set up the environment.
-3. **Training & Evaluation**: Explains how to train the YOLOv8 model and evaluate its performance.
-4. **Inference**: Instructions on how to run the trained model on new images or videos.
-5. **Model Deployment**: Details on converting the model for deployment.
-6. **License & Acknowledgments**: Mentions licensing and credits for the tools used.
+1. **Dataset Overview**: The dataset and its contents.
+2. **Setup Instructions**: Create a virtual environment, install dependencies, and set up the environment.
+3. **Training & Evaluation**: Train the YOLOv8 model and evaluate its performance.
+4. **Inference**: Run the trained model on new images.
+5. **License & Acknowledgments**: Mentions licensing and credits for the tools used.
 
 This guide should help set up the environment and train a YOLO model for object detection on basketball players.
