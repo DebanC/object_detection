@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['ball', 'basket', 'bench person', 'player', 'referee']
+
+roboflow:
+  workspace: jon-betolaza
+  project: basketball-players-c8zbl
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jon-betolaza/basketball-players-c8zbl/dataset/2
